@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🔭 Currently working on **SAP ABAP RAP Projects & Web Development**  
-- 🌱 Learning **AWS, Advanced ABAP RAP & Full Stack Development**  
+- 🌱 Learning Advanced ABAP RAP & Full Stack Development**  
 - 💡 Interested in **Enterprise Applications, Automation & Cloud**  
 - 🧠 Strong in **Problem Solving & Aptitude**  
 - ⚡ Fun fact: I turn ideas into working applications!  
@@ -38,46 +38,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
-### ☁️ Cloud  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
----
-
-## 📌 Projects  
-
-### 🔹 Invoice Processing System (SAP ABAP RAP - Unmanaged)  
-- Developed a RAP-based application with full control over business logic and database operations  
-- Implemented **CRUD operations using behavior definitions**  
-- Designed validations and optimized data handling  
-
-### 🔹 Project Resource Allocation System (SAP RAP - Managed)  
-- Built a **Fiori-based application** for managing project resources  
-- Implemented **real-time updates in applied jobs and allocation tracking**  
-- Used CDS Views, Behavior Definitions, and Associations  
-
-### 🔹 Investment Web Application  
-- Developed a platform for **stock browsing, buying, and selling**  
-- Features include:  
-  - 📊 Stock detail visualization  
-  - 💼 Portfolio tracking  
-  - 💳 Sample payment integration  
-
-### 🔹 Expense Tracker  
-- Built an expense tracking app with **monthly analytics and graphs**  
-- Planned integration with **Google Pay (GPay)**  
-
-### 🔹 Login Automation Testing (Selenium)  
-- Automated login functionality testing using **Selenium**  
-- Implemented:  
-  - Excel-driven test cases  
-  - Screenshot capture  
-  - HTML report generation  
-
-### 🔹 Visitor Tracking System  
-- Developed using **Node.js and MySQL**  
-- Efficiently tracks and stores visitor data  
-
----
 
 ## 📈 What I Bring  
 ✔ Strong knowledge of **SAP ABAP RAP (Managed & Unmanaged)**  
