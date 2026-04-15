@@ -68,5 +68,21 @@
 </p>
 
 ---
+## 💼 Experience  
+
+- Experience in **SAP ABAP RAP (Managed & Unmanaged)** with strong focus on enterprise application development  
+- Developed and implemented **full-stack web applications** using HTML, CSS, JavaScript, and React   
+- Worked with **CDS Views, behavior definitions, and database management** for scalable solutions  
+- Hands-on experience in **automation testing using Selenium with Excel-driven test execution**
+- 
+---
+
+## 📄 Resume  
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1-O_pIMPaJY9tZJRDLnn4W5Yk5gfl3qC5/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
 ⭐ *“Always learning, always building.”*  
