@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🔭 Currently working on **SAP ABAP RAP Projects & Web Development**  
-- 🌱 Learning Advanced ABAP RAP & Full Stack Development**  
+- 🌱 Learning **AWS, Advanced ABAP RAP & Full Stack Development**  
 - 💡 Interested in **Enterprise Applications, Automation & Cloud**  
 - 🧠 Strong in **Problem Solving & Aptitude**  
 - ⚡ Fun fact: I turn ideas into working applications!  
@@ -38,31 +38,67 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
-
-## 📈 What I Bring  
-✔ Strong knowledge of **SAP ABAP RAP (Managed & Unmanaged)**  
-✔ Hands-on experience in **Full Stack Development**  
-✔ Experience in **Automation Testing (Selenium)**  
-✔ Ability to develop **scalable enterprise applications**  
+### ☁️ Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 Projects  
+
+### 🔹 Invoice Processing System (SAP ABAP RAP - Unmanaged)  
+- Developed a RAP-based application with full control over business logic and database operations  
+- Implemented **CRUD operations using behavior definitions**  
+- Designed validations and optimized data handling  
+
+### 🔹 Project Resource Allocation System (SAP RAP - Managed)  
+- Built a **Fiori-based application** for managing project resources  
+- Implemented **real-time updates in applied jobs and allocation tracking**  
+- Used CDS Views, Behavior Definitions, and Associations  
+
+### 🔹 Investment Web Application  
+- Developed a platform for **stock browsing, buying, and selling**  
+- Features include:  
+  - 📊 Stock detail visualization  
+  - 💼 Portfolio tracking  
+  - 💳 Sample payment integration  
+
+### 🔹 Expense Tracker  
+- Built an expense tracking app with **monthly analytics and graphs**  
+- Planned integration with **Google Pay (GPay)**  
+
+### 🔹 Login Automation Testing (Selenium)  
+- Automated login functionality testing using **Selenium**  
+- Implemented:  
+  - Excel-driven test cases  
+  - Screenshot capture  
+  - HTML report generation  
+
+### 🔹 Visitor Tracking System  
+- Developed using **Node.js and MySQL**  
+- Efficiently tracks and stores visitor data  
+
+---
+
+## 📊 GitHub Summary Cards  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhisheek21&theme=tokyonight)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheek21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Abhisheek21&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhisheek21&theme=tokyonight" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhisheek21&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheek21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhisheek21&theme=tokyonight" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhisheek21&theme=tokyonight&utcOffset=5.5" height="180"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-link)  
 
 ---
 
