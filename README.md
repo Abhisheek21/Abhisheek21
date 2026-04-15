@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 - 🔭 Currently working on **SAP ABAP RAP Projects & Web Development**  
 - 🌱 Learning Advanced ABAP RAP & Full Stack Development**  
-- 💡 Interested in **Enterprise Applications, Automation & Cloud**  
+- 💡 Interested in **Enterprise Applications, Automation**  
 - 🧠 Strong in **Problem Solving & Aptitude**  
 - ⚡ Fun fact: I turn ideas into working applications!  
 
@@ -74,7 +74,6 @@
 - Developed and implemented **full-stack web applications** using HTML, CSS, JavaScript, and React   
 - Worked with **CDS Views, behavior definitions, and database management** for scalable solutions  
 - Hands-on experience in **automation testing using Selenium with Excel-driven test execution**
-- 
 ---
 
 ## 📄 Resume  
