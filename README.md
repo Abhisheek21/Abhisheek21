@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 - 🔭 Currently working on **SAP ABAP RAP Projects & Web Development**  
-- 🌱 Learning **AWS, Advanced ABAP RAP & Full Stack Development**  
+- 🌱 Learning Advanced ABAP RAP & Full Stack Development**  
 - 💡 Interested in **Enterprise Applications, Automation & Cloud**  
 - 🧠 Strong in **Problem Solving & Aptitude**  
 - ⚡ Fun fact: I turn ideas into working applications!  
@@ -40,34 +40,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-
-### ☁️ Cloud  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
----
-
-## 📌 Projects  
-
-### 🔹 Invoice Processing System (SAP ABAP RAP - Unmanaged)  
-- Developed a RAP-based application with full control over business logic and database operations  
-- Implemented **CRUD operations using behavior definitions**  
-
-### 🔹 Project Resource Allocation System (SAP RAP - Managed)  
-- Built a **Fiori-based application** for managing project resources  
-- Implemented real-time allocation tracking  
-
-### 🔹 Investment Web Application  
-- Stock browsing, buying & portfolio tracking  
-
-### 🔹 Expense Tracker  
-- Monthly analytics with graph visualization  
-
-### 🔹 Login Automation Testing  
-- Selenium + Excel + HTML reports  
-
-### 🔹 Visitor Tracking System  
-- Node.js + MySQL based tracking  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)   
 
 ---
 
