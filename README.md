@@ -1,6 +1,10 @@
-# Hi there 👋, I'm Abhishek V  
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Abhishek+V;SAP+ABAP+Developer;Full+Stack+Enthusiast;Always+Learning+🚀" />
+</p>
 
-💻 **Aspiring Software Developer | SAP ABAP | Full Stack Enthusiast**  
+<h1 align="center">💻 Abhishek V</h1>
+<h3 align="center">Aspiring Software Developer | SAP ABAP | Full Stack Enthusiast</h3>
 
 ---
 
@@ -48,34 +52,22 @@
 ### 🔹 Invoice Processing System (SAP ABAP RAP - Unmanaged)  
 - Developed a RAP-based application with full control over business logic and database operations  
 - Implemented **CRUD operations using behavior definitions**  
-- Designed validations and optimized data handling  
 
 ### 🔹 Project Resource Allocation System (SAP RAP - Managed)  
 - Built a **Fiori-based application** for managing project resources  
-- Implemented **real-time updates in applied jobs and allocation tracking**  
-- Used CDS Views, Behavior Definitions, and Associations  
+- Implemented real-time allocation tracking  
 
 ### 🔹 Investment Web Application  
-- Developed a platform for **stock browsing, buying, and selling**  
-- Features include:  
-  - 📊 Stock detail visualization  
-  - 💼 Portfolio tracking  
-  - 💳 Sample payment integration  
+- Stock browsing, buying & portfolio tracking  
 
 ### 🔹 Expense Tracker  
-- Built an expense tracking app with **monthly analytics and graphs**  
-- Planned integration with **Google Pay (GPay)**  
+- Monthly analytics with graph visualization  
 
-### 🔹 Login Automation Testing (Selenium)  
-- Automated login functionality testing using **Selenium**  
-- Implemented:  
-  - Excel-driven test cases  
-  - Screenshot capture  
-  - HTML report generation  
+### 🔹 Login Automation Testing  
+- Selenium + Excel + HTML reports  
 
 ### 🔹 Visitor Tracking System  
-- Developed using **Node.js and MySQL**  
-- Efficiently tracks and stores visitor data  
+- Node.js + MySQL based tracking  
 
 ---
 
@@ -88,17 +80,19 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhisheek21&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhisheek21&theme=tokyonight" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhisheek21&theme=tokyonight&utcOffset=5.5" height="180"/>
-</p>
-
 ---
 
-## 📫 Connect With Me  
+## 🌐 Connect With Me  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-link)  
+<p align="center">
+  <a href="https://github.com/Abhisheek21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="[https://linkedin.com/in/your-linkedin-link](https://www.linkedin.com/in/abhishek-v-592656258/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
