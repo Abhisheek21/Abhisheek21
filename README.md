@@ -88,9 +88,15 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisheek21&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abhisheek21&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheek21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Abhisheek21&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheek21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
